@@ -1,4 +1,4 @@
-# How to run TensorFlow on Apple mac M-series 🍟
+# Run TensorFlow on Apple mac M-series 🍟
 
 The TensorFlow machine learning framework is supposed to automatically detect and prioritise the use of GPUs over CPUs. <br>
 However, when using Tensorflow on a M-series (Apple Silicon) mac I have found that TensorFlow does not automatically detect and use your Apple GPU; increasing training time significantly. 
